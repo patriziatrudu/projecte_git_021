@@ -11,7 +11,7 @@ public class class_assignatura {
     private final String assignatura;
     private final int codi;
     
-    public class_persona(String assignatura,int codi){
+    public class_asssignatura(String assignatura,int codi){
         this.assignatura=assignatura;
         this.codi=codi;
     }
